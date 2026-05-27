@@ -1,4 +1,4 @@
-Healthcare Stroke Prediction – Regression Models Demo..
+Healthcare Stroke Prediction – Regression Models Demo.
 
 A comprehensive machine learning project that demonstrates and compares multiple regression techniques on a real-world healthcare stroke dataset, including detailed preprocessing, evaluation metrics, and visualizations
 
